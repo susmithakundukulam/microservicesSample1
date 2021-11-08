@@ -1,4 +1,4 @@
 # microservicesSample Properties
 
-STEP 3:
+STEP 2:
 Adding microservice property files in git repo to have common access
